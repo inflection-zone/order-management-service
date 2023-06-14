@@ -15,7 +15,7 @@ You can setup FastAPI project in the following ways.
 `$ source env/bin/activate`
 
 3. Install dependencies.
-`$ pip install -r requirements.txt `
+`$ pip install -r requirements.txt`
 
 4. To freeze the dependecnies to requirement.txt.
 `$ pip freeze > requirement.txt`
